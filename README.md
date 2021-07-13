@@ -6,7 +6,9 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
 Our predicition result was evaluated on the Root Mean Square Percentage Error 𝑅𝑀𝑆𝑃𝐸. The RMSPE is calculated as
 
-RMSPE=1𝑛∑𝑖=1𝑛(𝑦𝑖−𝑦̂ 𝑖𝑦𝑖)2‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⎷,
+
+![alt text](https://svgshare.com/i/Z60.svg "RSMPE")
+
 where y_i denotes the sales of a single store on a single day and yhat_i denotes the corresponding prediction.
 
 This way, our model could be compared to the other challenger's models.
