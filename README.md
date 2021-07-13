@@ -1,6 +1,7 @@
 # Capstone-Project-Rossman-Sales
 
 This project is a combination of EDA and time-series analysis of the Rossmann sales prediction challenge from kaggle.com [LINK](https://www.kaggle.com/c/rossmann-store-sales)
+
 The data provided by the challenge consists of historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set.
 
 
