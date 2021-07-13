@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Mac Stuff
-.DS_Stone
+.DS_Store
 
 # Distribution / packaging
 .Python
