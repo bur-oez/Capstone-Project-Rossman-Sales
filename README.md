@@ -17,3 +17,7 @@ Our predicition result was evaluated on the Root Mean Square Percentage Error ð
 where y_i denotes the sales of a single store on a single day and yhat_i denotes the corresponding prediction.
 
 This way, our model could be compared to the other challenger's models.
+
+pip install jupyterlab "ipywidgets>=7.5"
+jupyter labextension install jupyterlab-plotly@4.14.3
+jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.14.3
